@@ -1,0 +1,6 @@
+python: can't open file '/home/garoubahiefissa/chps0906/generate_cubes.py': [Errno 2] No such file or directory
+ERROR conda.cli.main_run:execute(47): `conda run python generate_cubes.py` failed. (See above for error)
+
+real	0m2.496s
+user	0m0.640s
+sys	0m0.138s
